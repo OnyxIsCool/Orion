@@ -11,7 +11,7 @@ This documentation provides a complete reference for the Orion UI Library.
 To utilize the library, place the following loadstring at the very top of your script.
 
 ```lua
-local OrionLib = loadstring(game:HttpGet("https://github.com/OnyxIsCool/Orion/releases/download/v1.1-orion-rework/main.lua"))()
+local OrionLib = loadstring(game:HttpGet("https://github.com/OnyxIsCool/Orion/releases/download/v1.2-orion-rework/SourceNew.lua"))()
 ```
 
 ---
